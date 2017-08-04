@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>思考感悟 on kellyling Blog</title>
+    <link>https://kellyling.github.io/categories/%E6%80%9D%E8%80%83%E6%84%9F%E6%82%9F/</link>
+    <description>Recent content in 思考感悟 on kellyling Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright (c) 2017. All rights reserved&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://kellyling.github.io/categories/%E6%80%9D%E8%80%83%E6%84%9F%E6%82%9F/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我的 2016</title>
+      <link>https://kellyling.github.io/2017/01/01/my-2016/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://kellyling.github.io/2017/01/01/my-2016/</guid>
+      <description>光阴似箭，岁月如梭，仿佛去年写「我的 2015」就在昨日，然而时间的确在滴滴答答中度过了 365 天。这一年里，经历了一些事，读了一些书，努力过，收获</description>
+    </item>
+    
+  </channel>
+</rss>

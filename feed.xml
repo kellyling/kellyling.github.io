@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kellyling Blog</title>
+    <link>https://kellyling.github.io/</link>
+    <description>Recent content on kellyling Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright (c) 2017. All rights reserved&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 09 Jan 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://kellyling.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我的 206</title>
+      <link>https://kellyling.github.io/2017/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://kellyling.github.io/2017/</guid>
+      <description>读书 2016 年，我读了以下书：《必然》、《MacTalk 跨越边界》、《7 Eleven零售的哲学》、《改变未来的九大算法》、《重来》、《马克·扎克伯</description>
+    </item>
+    
+    <item>
+      <title>我的 2016</title>
+      <link>https://kellyling.github.io/2017/01/01/my-2016/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://kellyling.github.io/2017/01/01/my-2016/</guid>
+      <description>光阴似箭，岁月如梭，仿佛去年写「我的 2015」就在昨日，然而时间的确在滴滴答答中度过了 365 天。这一年里，经历了一些事，读了一些书，努力过，收获</description>
+    </item>
+    
+    <item>
+      <title>关于我</title>
+      <link>https://kellyling.github.io/about/</link>
+      <pubDate>Thu, 01 Jan 2015 08:55:31 +0800</pubDate>
+      
+      <guid>https://kellyling.github.io/about/</guid>
+      <description>大家好，我叫 CoderZh，是一名程序员。 我的经历 2003-2007 中南大学土木工程系 2007-2011 测试开发（SDET 金山软件）。 2011-2015 Unity3D 游戏服务端主程、3DMMORPG 端</description>
+    </item>
+    
+  </channel>
+</rss>
