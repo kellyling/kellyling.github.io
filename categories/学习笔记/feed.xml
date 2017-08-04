@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学习笔记 on kellyling Blog</title>
+    <link>https://kellyling.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+    <description>Recent content in 学习笔记 on kellyling Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright (c) 2017. All rights reserved&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 09 Jan 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://kellyling.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我的 206</title>
+      <link>https://kellyling.github.io/2017/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://kellyling.github.io/2017/</guid>
+      <description>读书 2016 年，我读了以下书：《必然》、《MacTalk 跨越边界》、《7 Eleven零售的哲学》、《改变未来的九大算法》、《重来》、《马克·扎克伯</description>
+    </item>
+    
+  </channel>
+</rss>
